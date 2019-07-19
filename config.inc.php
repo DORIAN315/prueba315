@@ -1,6 +1,6 @@
 <?php
 /*
- * This is needed for cookie based authentication to encrypt password 
+ * This is second commit
  */
 $cfg['blowfish_secret'] = 'xampp'; /* YOU SHOULD CHANGE THIS FOR A MORE SECURE COOKIE AUTH! */
 
