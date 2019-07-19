@@ -1,0 +1,36 @@
+Buenas tardes Dorian,
+Los accesos a los sistemas son:
+CORREO
+correo: dorianlondono@saferbo.com
+clave: SAFrianl01214
+TRANSPORTES
+login: dolole01
+passwd: SAFrianl01214
+VPN-SONICWALL
+server: vpn.saferbo.com
+user: dorianlondono
+password: SAFrianl01214
+domain: saferbo.local
+APP WEB   webview
+https://app.saferbo.com
+usuario: adminsaf
+clave: eUw67saferbo
+Saferpoint  - webview
+https://app.saferbo.com/modulos/movil
+Pagina web saferbo
+https://www.saferbo.com
+Frame en wordpress y trazabilidad de las guias PHP propio  https://www.saferbo.com/rastreos
+Aplicativo Core Sisaf
+https://sisaf.saferbo.com
+Ruta FTP servidor aplicativos APP y saferpoint
+server: 10.1.1.10
+user: appsaf
+password:  transmed2
+Ruta FTP servidor aplicativo Sisaf
+server: ftpsrv01-v7.saferbo.lan
+user: sisafusr
+password: RvmRoKQj$)6tdPX
+Ruta de acceso a fuentes PHP sitios
+https://10.1.1.81
+user:  admin
+clave: eUw67saferbo
